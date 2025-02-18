@@ -1,0 +1,4 @@
+array,array_name,node,node_name,instrument,instrument_name,refdes,url,deployments
+CP04OSSM,Coastal Pioneer NES Offshore Surface Mooring,RID26,Near Surface Instrument Frame,07-NUTNRB000,Nitrate,CP04OSSM-RID26-07-NUTNRB000,https://ooinet.oceanobservatories.org/api/m2m/12576/sensor/inv/CP04OSSM/RID26/07-NUTNRB000,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]"
+CP03ISSM,Coastal Pioneer NES Inshore Surface Mooring,RID26,Near Surface Instrument Frame,07-NUTNRB000,Nitrate,CP03ISSM-RID26-07-NUTNRB000,https://ooinet.oceanobservatories.org/api/m2m/12576/sensor/inv/CP03ISSM/RID26/07-NUTNRB000,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]"
+CP01CNSM,Coastal Pioneer NES Central Surface Mooring,RID26,Near Surface Instrument Frame,07-NUTNRB000,Nitrate,CP01CNSM-RID26-07-NUTNRB000,https://ooinet.oceanobservatories.org/api/m2m/12576/sensor/inv/CP01CNSM/RID26/07-NUTNRB000,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]"
