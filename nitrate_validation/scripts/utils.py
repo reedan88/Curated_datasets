@@ -1,7 +1,6 @@
 import numpy as np
 from scipy.stats import median_abs_deviation
 import datetime
-import numpy.typing as npt
 import pandas as pd
 import xarray as xr
 
