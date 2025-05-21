@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+@author Andrew Reed
+@brief Provides methods for calculating the corrected SUNA-nitrate from the Pioneer-NES array
+"""
 import numpy as np
 from scipy.stats import median_abs_deviation
 import datetime
