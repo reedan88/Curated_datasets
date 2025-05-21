@@ -1,6 +1,8 @@
 # A 5-year validated Nitrate Dataset from the Pioneer-NES array
-@author: Andrew Reed
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14908032.svg)](https://doi.org/10.5281/zenodo.14908032) <br>
+@author: Andrew Reed <br>
 @email: areed@whoi.edu
+
 
 ---
 ## Overview
